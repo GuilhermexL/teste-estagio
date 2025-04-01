@@ -2,7 +2,7 @@
   <img src="images/logo.png" alt="IntuitiveCare">
 </p>
 
-Este repositório contém a resolução do teste de estágio para a vaga de [Nome da Vaga]. O objetivo do teste é implementar soluções para web scraping, transformação de dados, manipulação de banco de dados e desenvolvimento de uma API.
+Este repositório contém a resolução dos testes técnicos para a vaga de estágio na IntuitiveCare. Cada teste está separado em uma pasta com sua respectiva documentação e código-fonte.
 
 ### Tecnologias Utilizadas
 
@@ -14,48 +14,18 @@ Este repositório contém a resolução do teste de estágio para a vaga de [Nom
 
 - Postman (para testar a API);
 
-### Funcionalidades Pedidas para o Teste
+### Como Clonar o Repositório
 
-1. Web Scraping (Java)
+Para clonar este repositório usando um token de acesso, utilize o seguinte comando:
 
-    - Acessa o site da ANS e baixa os PDFs dos Anexos I e II.
+```sh
+git clone git clone https://<usuario>:<token>@github.com/<usuario>/<nome-projeto.git>
+```
 
-    - Compacta os arquivos baixados em .zip.
-
-2. Transformação de Dados (Java)
-
-    - Extrai a tabela Rol de Procedimentos e Eventos em Saúde do Anexo I.
-
-    - Salva os dados em um arquivo .csv.
-
-    - Substitui abreviações por descrições completas.
-
-    - Compacta o CSV gerado.
-
-3. Banco de Dados
-
-    - Cria tabelas para armazenar os dados extraídos.
-
-    - Importa arquivos CSV para o banco de dados.
-
-    - Executa consultas analíticas para encontrar as operadoras com maiores despesas.
-
-4. API (FastAPI)
-
-    - Exponibiliza uma rota para busca textual na lista de operadoras de saúde.
-
-    - Retorna os resultados mais relevantes.
-
-    - Testes e Validação
-
-    - Testes de API podem ser realizados via Postman.
-
-    - Scripts Java foram testados localmente.
-
-    - Banco de dados foi validado com queries SQL.
+Substitua `<token>` pelo seu token de acesso, `<usuario>` pelo seu nome de usuário no GitHub e `<nome-projeto>` pelo nome do repositório.
 
 ### Autor
 
 - Guilherme Santos:
-[Linkedin](https://www.linkedin.com/in/guilhermee-santos/)
-[GitHub](https://github.com/GuilhermexL)
+    - [Linkedin](https://www.linkedin.com/in/guilhermee-santos/)
+    - [GitHub](https://github.com/GuilhermexL)
