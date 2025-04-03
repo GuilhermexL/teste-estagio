@@ -8,11 +8,18 @@ Este repositório contém a resolução dos testes técnicos para a vaga de est�
 
 - Java (para Web Scraping e Transformação de Dados);
 
-- Python (FastAPI) (para desenvolvimento da API);
+- Python (Flask) (para desenvolvimento da API);
 
 - PostgreSQL/MySQL (para manipulação de banco de dados);
 
 - Postman (para testar a API);
+
+### Nevegação pelos Projetos
+
+- [Teste 1/web-scraping](./Teste1/web-scraping/README.md)
+- [Teste 2/transformacao-dados](./Teste2/transformacao-dados/README.md)
+- [Teste 3/banco-dados](./Teste3/banco-dados/README.md)
+- [Teste 4/api](./Teste4/api/README.md)
 
 ### Como Clonar o Repositório
 
@@ -24,8 +31,7 @@ git clone git clone https://<usuario>:<token>@github.com/<usuario>/<nome-projeto
 
 Substitua `<token>` pelo seu token de acesso, `<usuario>` pelo seu nome de usuário no GitHub e `<nome-projeto>` pelo nome do repositório.
 
-### Autor
+OBS: O token é fornecido no Email enviado junto com a submissão do teste.
 
-- Guilherme Santos:
-    - [Linkedin](https://www.linkedin.com/in/guilhermee-santos/)
-    - [GitHub](https://github.com/GuilhermexL)
+### Autor
+- [Guilherme Santos](https://www.linkedin.com/in/guilhermee-santos/)

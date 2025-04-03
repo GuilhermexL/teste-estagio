@@ -12,7 +12,7 @@ Um sistema completo para consulta de operadoras de saúde, com **backend em Pyth
     - Flask-CORS (segurança)
 - Frontend
     - Vue.js 3
-    - Axios (HTTP requests)
+    - Axios (Requisições HTTP)
     - ES6 JavaScript
 - Ferramentas
     - Postman (testes de API)
@@ -48,11 +48,6 @@ Um sistema completo para consulta de operadoras de saúde, com **backend em Pyth
 ---
 
 ## **Documentação da API**
-### **Rotas Disponíveis**
-| **Endpoint**          | **Método** | **Parâmetro** | **Descrição**                     |
-|-----------------------|------------|---------------|-----------------------------------|
-| `/buscar`             | GET        | `termo`       | Busca operadoras por termo        |
-| `/debug-dados`        | GET        | -             | Mostra metadados do CSV           |
 
 ### **Exemplo de Requisição**
 ```bash
