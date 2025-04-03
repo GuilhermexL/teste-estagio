@@ -23,15 +23,11 @@ Este repositório contém a resolução dos testes técnicos para a vaga de est�
 
 ### Como Clonar o Repositório
 
-Para clonar este repositório usando um token de acesso, utilize o seguinte comando:
+Para clonar este repositório, utilize o seguinte comando:
 
 ```sh
 git clone https://github.com/GuilhermexL/teste-estagio.git
 ```
-
-Substitua `<token>` pelo seu token de acesso, `<usuario>` pelo seu nome de usuário no GitHub e `<nome-projeto>` pelo nome do repositório.
-
-OBS: O token é fornecido no Email enviado junto com a submissão do teste.
 
 ### Autor
 - [Guilherme Santos](https://www.linkedin.com/in/guilhermee-santos/)
