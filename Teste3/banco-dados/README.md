@@ -16,7 +16,7 @@ Foram utilizados dois conjuntos de dados públicos:
 O arquivo principal utilizado no projeto foi:  
 - `operadoras.csv` (contendo os dados cadastrais das operadoras de planos de saúde)  
 
-## 🛠 **2. Tecnologias Utilizadas**  
+## **2. Tecnologias Utilizadas**  
 - **Banco de Dados:** MySQL 8+  
 - **Ferramenta de Gerenciamento:** MySQL Workbench  
 - **Linguagem SQL**  
